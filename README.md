@@ -28,4 +28,4 @@ This project analyzes mutual fund performance using NAV history data obtained th
 - ICICI Bluechip
 - Nippon Large Cap
 - Axis Bluechip
-- Kotak Bluechip
+- Kotak Bluechip# Mutual-Fund-Analytics
