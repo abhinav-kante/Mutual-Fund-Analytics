@@ -1,0 +1,43 @@
+DATA QUALITY SUMMARY
+
+Dataset: SBI Bluechip
+Rows: 2987
+Columns: 2
+
+Columns:
+1. date
+2. nav
+
+Missing Values:
+date = 0
+nav = 0
+
+Duplicate Records:
+0
+
+Remarks:
+Dataset is clean and suitable for analysis.
+
+----------------------------------
+
+Dataset: ICICI Bluechip
+Missing Values: 0
+Duplicates: 0
+
+----------------------------------
+
+Dataset: Nippon Large Cap
+Missing Values: 0
+Duplicates: 0
+
+----------------------------------
+
+Dataset: Axis Bluechip
+Missing Values: 0
+Duplicates: 0
+
+----------------------------------
+
+Dataset: Kotak Bluechip
+Missing Values: 0
+Duplicates: 0
